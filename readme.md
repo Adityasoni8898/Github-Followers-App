@@ -4,6 +4,9 @@ GitHubFollowersApp is an iOS application that allows users to search for GitHub 
 Users can search within these followers, view detailed information about them, and save favorite usernames for quick access.  
 This project was developed following Sean Allen's iOS Dev Job Interview Practice course.
 
+https://github.com/user-attachments/assets/761598f0-43e7-49d6-815c-03f945affacd
+
+
 ## Features Implemented
 
 1. **Search GitHub Users**:  
